@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-fading-content-slider\n"
+"POT-Creation-Date: 2013-02-18 17:13+0100\n"
+"PO-Revision-Date: 2013-02-18 17:13+0100\n"
+"Last-Translator: MBA Multimedia <mbamultimedia@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: C:\\Developpement\\workspace-php\\wp-fading-content-slider"
+"\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: trunk\n"
+
+#: trunk/wp-fading-content-slider.php:147
+msgid "Fading Content Slider options"
+msgstr ""
+
+#: trunk/wp-fading-content-slider.php:147
+msgid "WP Fading Content Slider"
+msgstr ""
+
+#: trunk/wp-fading-content-slider.php:152
+#: trunk/wp-fading-content-slider.php:153
+msgid "Fading slider options"
+msgstr ""
+
+#: trunk/wp-fading-content-slider.php:167
+msgid "Add to the content slider?"
+msgstr ""
+
+#: trunk/wp-fading-content-slider.php:172
+msgid ""
+"Warning : Remember to add an 'Image thumbnail' for objects you want to add "
+"to the content slider"
+msgstr ""
+
+#: trunk/views/admin.php:8
+msgid "Fading Content Slider Settings"
+msgstr ""
+
+#: trunk/views/admin.php:9
+msgid "Here you can adjust the Fading Content Slider's parameters."
+msgstr ""
+
+#: trunk/views/admin.php:10
+msgid ""
+"You have to choose manually to insert or not posts/pages in the slider on "
+"the posts/pages edit screen ('Add to the slider?' Checkbox)."
+msgstr ""
+
+#: trunk/views/admin.php:12
+msgid "Code to insert"
+msgstr ""
+
+#: trunk/views/admin.php:14
+msgid ""
+"The code below must be inserted in a Wordpress file, where you want to "
+"display the parallax content slider:"
+msgstr ""
+
+#: trunk/views/admin.php:20
+msgid "An alternative is to call the plugin with the following shortcode:"
+msgstr ""
+
+#: trunk/views/admin.php:26
+msgid "General Display Options"
+msgstr ""
+
+#: trunk/views/admin.php:35
+msgid "Sort criteria for posts/pages"
+msgstr ""
+
+#: trunk/views/admin.php:38
+msgid "Date"
+msgstr ""
+
+#: trunk/views/admin.php:39
+msgid "Title"
+msgstr ""
+
+#: trunk/views/admin.php:40
+msgid "Random"
+msgstr ""
+
+#: trunk/views/admin.php:42
+msgid "('Order by' criteria)"
+msgstr ""
+
+#: trunk/views/admin.php:46
+msgid "Sort order"
+msgstr ""
+
+#: trunk/views/admin.php:49
+msgid "Ascending"
+msgstr ""
+
+#: trunk/views/admin.php:50
+msgid "Descending"
+msgstr ""
+
+#: trunk/views/admin.php:52
+msgid "(Order)"
+msgstr ""
+
+#: trunk/views/admin.php:56
+msgid "Automatic switch"
+msgstr ""
+
+#: trunk/views/admin.php:59
+msgid "Yes"
+msgstr ""
+
+#: trunk/views/admin.php:64
+msgid "Time between transitions (ms)"
+msgstr ""
+
+#: trunk/views/admin.php:70
+msgid "Slider container's width"
+msgstr ""
+
+#: trunk/views/admin.php:76
+msgid "Slider container's height"
+msgstr ""
+
+#: trunk/views/admin.php:82
+msgid "Background color"
+msgstr ""
+
+#: trunk/views/admin.php:88
+msgid "Border color (hexadecimal)"
+msgstr ""
+
+#: trunk/views/admin.php:94
+msgid "Text width"
+msgstr ""
+
+#: trunk/views/admin.php:100
+msgid "Text color"
+msgstr ""
+
+#: trunk/views/admin.php:106
+msgid "Image width"
+msgstr ""
+
+#: trunk/views/admin.php:112
+msgid "Image height"
+msgstr ""
+
+#: trunk/views/admin.php:122
+msgid "Update Options"
+msgstr ""
+
+#: trunk/views/display.php:140 trunk/views/display.php:141
+msgid "Read post"
+msgstr ""
