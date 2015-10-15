@@ -467,8 +467,8 @@ p {
   	width: 100%;
     min-height: 30px;
 	z-index: 80;
-    padding: 10px 0;
-	border-bottom: 1px solid #eaeaea;
+	padding: 10px 0;
+	//border-bottom: 1px solid #eaeaea;
 }
 
 .admin-bar .isStuck {
@@ -2036,7 +2036,7 @@ ol.commentlist li .reply {
 
 	.banner .dots {
 		position: absolute;
-		left: 0;
+		left: -20px;
 		right: 0;
 		bottom: 20px;
 		width: 100%;
@@ -2236,7 +2236,7 @@ ol.commentlist li .reply {
 }
 
 .flexslider .post-title h2 {
-	color: #fff;
+	color: rgba(255, 255, 255, 0.8) /*#fff*/;
 	font-size: 60px;
 	top: 60px;
 	z-index: 10;
@@ -2635,9 +2635,9 @@ html[xmlns] .slides {
 }
 
 .navbar ul {
-	float: right;
+	//float: right;
 	list-style: outside none none;
-	margin: 0;
+	margin-left: -7%;
 	padding: 0;
 }
 
@@ -4136,11 +4136,8 @@ OUR MUSIK THERAPY STYLE
 */
 
 .sf-cache-1 {
-    border: solid 1px white;
-    top: 0px;
+    position : relative;
+    top: 64%;
     line-height: inherit;
     background-color: rgba(255, 255, 255, 0.2);
 }
-
-
-
