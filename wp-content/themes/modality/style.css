@@ -3173,7 +3173,7 @@ button:hover {
     margin: auto;
     border-radius: 10px;
     width: 30px;
-    height: 25px;
+    height: 30px;
     vertical-align: middle;
 }
 
@@ -3184,7 +3184,9 @@ button:hover {
   	transition: all 0.3s ease 0s;
 
 	width: 30px;
-	height: 25px;
+	height: 30px;
+	/*color: #252525;*/
+  	/*font-size: 18px;*/
 	text-align: center;
     vertical-align: middle;
 
@@ -4181,4 +4183,15 @@ OUR MUSIK THERAPY STYLE
     top: 64%;
     line-height: inherit;
     background-color: rgba(255, 255, 255, 0.2);
+}
+
+
+#metaslider_96
+{
+
+}
+
+#metaslider_96 li img
+{
+
 }

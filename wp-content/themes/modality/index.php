@@ -26,8 +26,15 @@ get_header(); ?>
 			if ($modality_theme_options['image_slider_on'] == '1') {
 
                 //do_shortcode('[fadingslider]');
-				modality_slider();
-				
+				//modality_slider();
+                ?>
+                <div class="mt-slider">
+                    <?php
+                    echo do_shortcode("[metaslider id=96]");
+                    ?>
+                </div>
+             <?php
+
 			}
 
 			if ($modality_theme_options['getstarted_section_on'] == '1') {
